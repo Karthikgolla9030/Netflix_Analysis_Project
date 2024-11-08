@@ -1,6 +1,4 @@
-
-
-```markdown
+```markdown``
 # Netflix Analysis
 
 This repository contains a comprehensive analysis of Netflix data using Jupyter Notebooks. The analysis aims to uncover insights and patterns within Netflix's content library.
